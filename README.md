@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Ahmad Sotoude</h1>
-<h3>passionate data analyst</h3>
+<h1 align="center">Hi 👋, I'm Ahmad Sotoude</h1>
+<h3 align="center">passionate data analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsotoude&label=Profile%20views&color=d553b2&style=flat" alt="ahmadsotoude" /> </p>
 
@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadsotoude&show_icons=true&theme=dark&title_color=000000&text_color=000000&locale=en&layout=compact" alt="ahmadsotoude" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadsotoude&show_icons=true&theme=dark&locale=en" alt="ahmadsotoude" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadsotoude&show_icons=true&theme=dark&title_color=ffffff&text_color=cfcfcf&locale=en" alt="ahmadsotoude" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsotoude&theme=dark" alt="ahmadsotoude" /></p>
