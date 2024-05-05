@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsotoude&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsotoude" /> </p>
 
+- 🔭 I’m currently learning about **CNN and RNN**
+
+- 🤝 I’m looking for **internship positions for data analysis**
+
+- 🌱 I’m open to **do research works in fields of AI**
+
 - 📫 How to reach me **ahmadstdh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
