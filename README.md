@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ahmad Sotoude</h1>
-<h3>passionate data analyst</h3>
+<h3>passionate data scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsotoude&label=Profile%20views&color=d553b2&style=flat" alt="ahmadsotoude" /> </p>
 
