@@ -3,11 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsotoude&label=Profile%20views&color=d553b2&style=flat" alt="ahmadsotoude" /> </p>
 
-- 🔭 I’m currently learning about **CNN and RNN**
+- 🚀 Currently building **AI-powered applications** using **Python, FastAPI, and Deep Learning**
 
-- 🤝 I’m looking for **internship positions for data analysis**
+- 🧠 Working on **Predictive Maintenance**, **Speech Emotion Recognition**, and **LLM-integrated AI systems**
 
-- 🌱 I’m open to **do research works in fields of AI**
+- 💻 Experienced with **TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, and Docker**
+
+- 📊 Interested in **Machine Learning, Computer Vision, Time-Series Analysis, Signal Processing, and Generative AI**
+
+- 📖 Passionate about writing **clean code, technical documentation, and building production-ready AI solutions**
+
+- ⚡ Fun fact: I enjoy turning research ideas into real-world AI applications.
 
 - 📫 How to reach me **ahmadstdh@gmail.com**
 
